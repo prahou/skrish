@@ -21,7 +21,7 @@ accordingly. All blocks of text must
 be followed by an empty line. CH must  
 be followed by a block of text. TITLE, 
 SUB and ACT do not have to be followed 
-by an empty line. All tegs, with the 
+by an empty line. All tags, with the 
 exception of # must be followed by a space
 or <TAB>.
 
