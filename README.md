@@ -1,4 +1,4 @@
 # skrish
 plain text playscript formatter in ksh
 
-See https://www.triapul.cz/soft/skrish/ for help.
+See https://www.triapul.cz/skrish/ for help.
